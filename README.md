@@ -65,10 +65,8 @@ Desenvolver as interfaces de um sistema musical, organizando suas páginas e ele
 | `login.html` | Página de login |
 | `index.html` | Página inicial |
 | `listagem_musicas.html` | Listagem de músicas |
-| `cadastro_artista.html` | Formulário de cadastro de artistas |
-| `cadastro_musica.html` | Formulário de cadastro de músicas |
+| `biblioteca.html` | Catálogo de músicas cadastradas, com filtros e ações |
 | `styles.css` | Estilização compartilhada das páginas |
-| `GUIA_HTML_CSS.md` | Guia de apoio sobre HTML e CSS |
 
 </div>
 
