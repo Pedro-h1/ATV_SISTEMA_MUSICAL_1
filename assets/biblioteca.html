@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Musical | Sistema Musical</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="topbar">
+        <a class="brand" href="index.html">🎵 Sistema Musical</a>
+        <a class="btn btn-secondary" href="index.html">Voltar</a>
+    </header>
+
+    <main class="container">
+        <section class="page-heading heading-row">
+            <div>
+                <p class="eyebrow">CATÁLOGO</p>
+                <h1>Biblioteca Musical</h1>
+                <p class="subtitle">Consulte as músicas cadastradas no sistema.</p>
+            </div>
+            <a class="btn btn-primary" href="#filtros">＋ Nova música</a>
+        </section>
+
+        <section class="filters" id="filtros" aria-label="Filtros da biblioteca">
+            <div class="form-group search-field">
+                <label for="busca">Buscar música</label>
+                <input type="search" id="busca" name="busca" placeholder="Digite o nome da música">
+            </div>
+            <div class="form-group">
+                <label for="artista">Artista</label>
+                <select id="artista" name="artista">
+                    <option value="">Todos os artistas</option>
+                    <option>Queen</option>
+                    <option>Legião Urbana</option>
+                    <option>Michael Jackson</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="genero">Gênero</label>
+                <select id="genero" name="genero">
+                    <option value="">Todos os gêneros</option>
+                    <option>Rock</option>
+                    <option>Rock nacional</option>
+                    <option>Pop</option>
+                </select>
+            </div>
+            <button class="btn btn-primary filter-button" type="button">Filtrar</button>
+        </section>
+
+        <section class="table-card">
+            <div class="table-heading">
+                <h2>Músicas cadastradas</h2>
+                <span class="result-count">3 registros de exemplo</span>
+            </div>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">Música</th>
+                            <th scope="col">Artista</th>
+                            <th scope="col">Gênero</th>
+                            <th scope="col">Duração</th>
+                            <th scope="col">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Bohemian Rhapsody</td>
+                            <td>Queen</td>
+                            <td>Rock</td>
+                            <td>5:55</td>
+                            <td class="actions">
+                                <button class="btn btn-edit" type="button">Editar</button>
+                                <button class="btn btn-delete" type="button">Excluir</button>
+                                <a class="btn btn-youtube" href="https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody" target="_blank" rel="noopener noreferrer">YouTube</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Tempo Perdido</td>
+                            <td>Legião Urbana</td>
+                            <td>Rock nacional</td>
+                            <td>5:00</td>
+                            <td class="actions">
+                                <button class="btn btn-edit" type="button">Editar</button>
+                                <button class="btn btn-delete" type="button">Excluir</button>
+                                <a class="btn btn-youtube" href="https://www.youtube.com/results?search_query=Legiao+Urbana+Tempo+Perdido" target="_blank" rel="noopener noreferrer">YouTube</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Billie Jean</td>
+                            <td>Michael Jackson</td>
+                            <td>Pop</td>
+                            <td>4:54</td>
+                            <td class="actions">
+                                <button class="btn btn-edit" type="button">Editar</button>
+                                <button class="btn btn-delete" type="button">Excluir</button>
+                                <a class="btn btn-youtube" href="https://www.youtube.com/results?search_query=Michael+Jackson+Billie+Jean" target="_blank" rel="noopener noreferrer">YouTube</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
