@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+1+%C2%B7+Front-End" alt="Objetivo do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo+do+Projeto" alt="Objetivo do Projeto" />
 </div>
 <div align="center">
     <p>Desenvolver as interfaces de um sistema musical, organizando suas páginas e elementos visuais e permitindo a navegação entre as diferentes áreas da aplicação.</p>
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+1+%C2%B7+Front-End" alt="Páginas do Sistema" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%96%A5%EF%B8%8F+P%C3%A1ginas+do+Sistema" alt="Páginas do Sistema" />
 </div>
 <div align="center">
     <p>🔐 <strong>Login:</strong> interface de entrada do sistema.</p>
@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+1+%C2%B7+Front-End" alt="Arquivos do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%93%82+Arquivos+do+Projeto" alt="Arquivos do Projeto" />
 </div>
 <div align="center">
 
@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+1+%C2%B7+Front-End" alt="Especificações Técnicas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%94%A7+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" alt="Especificações Técnicas" />
 </div>
 <div align="center">
 
