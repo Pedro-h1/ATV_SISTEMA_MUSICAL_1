@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- DOCTYPE avisa ao navegador que esta página usa HTML5. -->
+<html lang="pt-br">
+<head>
+    <!-- Configurações da página; o conteúdo do head não aparece no corpo. -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login — Sistema Musical</title>
+    <!-- Ícone da aba: emoji musical desenhado em SVG diretamente no código. -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27><text y=%27.9em%27 font-size=%2790%27>🎵</text></svg>">
+    <!-- Todas as telas compartilham o mesmo arquivo CSS. -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<!-- A classe login-page centraliza o cartão de login com Flexbox. -->
+<body class="login-page">
+    <!-- Caixa branca que contém o login inteiro. -->
+    <div class="login-card">
+        <div class="login-header">
+            <h1>🎵 Sistema Musical</h1>
+            <p>Entre com suas credenciais</p>
+        </div>
+
+        <!-- Nesta Sprint, o formulário é visual; na Sprint 2 será conectado ao PHP. -->
+        <form method="post" action="#">
+            <div class="form-group">
+                <label for="usuario">Usuário</label>
+                <input type="text"
+                       id="usuario"
+                       name="usuario"
+                       required
+                       autocomplete="username"
+                       placeholder="Seu usuário">
+            </div>
+
+            <div class="form-group">
+                <label for="senha">Senha</label>
+                <input type="password"
+                       id="senha"
+                       name="senha"
+                       required
+                       autocomplete="current-password"
+                       placeholder="Sua senha">
+            </div>
+
+            <!-- type=submit envia o formulário, mas action="#" ainda não chama o back-end. -->
+            <button type="submit" class="btn-primary">Entrar</button>
+        </form>
+
+        <div class="login-hint">
+            <strong>Credenciais de teste:</strong><br>
+            Usuário: <code>admin</code> &nbsp;·&nbsp; Senha: <code>123</code>
+        </div>
+    </div>
+</body>
+</html>
