@@ -61,11 +61,12 @@
 | CSS3 | Estilização e organização visual |
 | Visual Studio Code | Ambiente de desenvolvimento |
 
-    <br>
-    <strong>Escopo desta etapa:</strong> somente Front-End.
-    <strong>Back-End:</strong> não implementado nesta parte.
+<br>
+    <strong>Escopo desta etapa:</strong> somente Front-End.<br>
+    <strong>Back-End:</strong> não implementado nesta parte.<br>
     <strong>Banco de Dados:</strong> não utilizado nesta parte.
 </div>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8B5CF6,100:21133F&section=footer" width="100%" />
 </div>
