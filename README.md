@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B5CF6&text=🎼+Sistema%20Musical&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=🎨+Part%201%20%E2%80%94%20Front-End&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=🎼+Sistema%20Musical&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=🎨+Part%201%20%E2%80%94%20Front-End&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
@@ -97,5 +97,5 @@ Desenvolver as interfaces de um sistema musical, organizando suas páginas e ele
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8B5CF6&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:A25CED,100:5649ED&section=footer" width="100%" />
 </div>
