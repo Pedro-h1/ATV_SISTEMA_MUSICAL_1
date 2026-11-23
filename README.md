@@ -1,15 +1,12 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8B5CF6,100:5B21B6&text=🎼+Sistema%20Musical&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=🎨+Part%201%20%E2%80%94%20Front-End&descAlignY=58&descSize=18" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8B5CF6,100:5B35B5&text=🎼+Sistema%20Musical&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=🎨+Part%201%20%E2%80%94%20Front-End&descAlignY=58&descSize=18" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=Sobre+o+Projeto;Sistema+Musical+-+Part+1" alt="Sobre o Projeto" />
 </div>
 <div align="center">
-
-    O **Sistema Musical** é um projeto desenvolvido como atividade do **SENAI**, com foco na construção de uma interface web para gerenciamento e consulta de informações musicais.
-
-    Nesta primeira parte, o desenvolvimento é voltado exclusivamente ao **Front-End**, utilizando **HTML5 e CSS3** para estruturar e estilizar as páginas do sistema.
-
+    <p>O <strong>Sistema Musical</strong> é um projeto desenvolvido como atividade do <strong>SENAI</strong>, com foco na construção de uma interface web para gerenciamento e consulta de informações musicais.</p>
+    <p>Nesta primeira parte, o desenvolvimento é voltado exclusivamente ao <strong>Front-End</strong>, utilizando <strong>HTML5 e CSS3</strong> para estruturar e estilizar as páginas do sistema.</p>
 </div>
 
 ---
@@ -18,9 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=Objetivo+do+Projeto" alt="Objetivo do Projeto" />
 </div>
 <div align="center">
-
-    Desenvolver as interfaces de um sistema musical, organizando suas páginas e elementos visuais e permitindo a navegação entre as diferentes áreas da aplicação.
-
+    <p>Desenvolver as interfaces de um sistema musical, organizando suas páginas e elementos visuais e permitindo a navegação entre as diferentes áreas da aplicação.</p>
 </div>
 
 ---
@@ -29,13 +24,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=P%C3%A1ginas+do+Sistema" alt="Páginas do Sistema" />
 </div>
 <div align="center">
-
-    🔐 **Login:** interface de entrada do sistema.<br>
-    🏠 **Página inicial:** tela principal de navegação.<br>
-    🎧 **Listagem de músicas:** apresentação das músicas cadastradas.<br>
-    🎤 **Cadastro de artistas:** formulário para inserir informações de artistas.<br>
-    🎼 **Cadastro de músicas:** formulário para inserir informações de músicas.
-
+    <p>🔐 <strong>Login:</strong> interface de entrada do sistema.</p>
+    <p>🏠 <strong>Página inicial:</strong> tela principal de navegação.</p>
+    <p>🎧 <strong>Listagem de músicas:</strong> apresentação das músicas cadastradas.</p>
+    <p>🎤 <strong>Cadastro de artistas:</strong> formulário para inserir informações de artistas.</p>
+    <p>🎼 <strong>Cadastro de músicas:</strong> formulário para inserir informações de músicas.</p>
 </div>
 
 ---
@@ -45,13 +38,13 @@
 </div>
 <div align="center">
 
-    | Arquivo | Descrição |
-    |:---:|:---|
-    | `login.html` | Página de login |
-    | `index.html` | Página inicial |
-    | `listagem_musicas.html` | Listagem de músicas |
-    | `biblioteca.html` | Catálogo de músicas cadastradas, com filtros e ações |
-    | `styles.css` | Estilização compartilhada das páginas |
+| Arquivo | Descrição |
+|:---:|:---|
+| `login.html` | Página de login |
+| `index.html` | Página inicial |
+| `listagem_musicas.html` | Listagem de músicas |
+| `biblioteca.html` | Catálogo de músicas cadastradas, com filtros e ações |
+| `styles.css` | Estilização compartilhada das páginas |
 
 </div>
 
@@ -62,21 +55,17 @@
 </div>
 <div align="center">
 
-    | Tecnologia | Utilização |
-    |:---:|:---|
-    | HTML5 | Estruturação das páginas |
-    | CSS3 | Estilização e organização visual |
-    | Visual Studio Code | Ambiente de desenvolvimento |
+| Tecnologia | Utilização |
+|:---:|:---|
+| HTML5 | Estruturação das páginas |
+| CSS3 | Estilização e organização visual |
+| Visual Studio Code | Ambiente de desenvolvimento |
 
     <br>
-
-    **Escopo desta etapa:** somente Front-End.
-
-    **Back-End:** não implementado nesta parte.
-
-    **Banco de Dados:** não utilizado nesta parte.
-
+    <strong>Escopo desta etapa:</strong> somente Front-End.
+    <strong>Back-End:</strong> não implementado nesta parte.
+    <strong>Banco de Dados:</strong> não utilizado nesta parte.
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5B21B6,100:8B5CF6&section=footer" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5B35B5,100:8B5CF6&section=footer" width="100%" />
 </div>
